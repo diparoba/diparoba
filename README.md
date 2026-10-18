@@ -37,7 +37,7 @@ Construyo software que resuelve problemas reales: plataformas web, firmware para
 
 | Proyecto | Qué es |
 |---|---|
-| **OuroFlash** | Plataforma de flasheo de firmware y telemetría para ESP32 / Arduino / AVR: web serial, AVR + ESP flasher, fork recovery y caja negra. |
+| [**OuroFlash**](https://github.com/diparoba/OuroFlash) | Plataforma de flasheo de firmware y telemetría para ESP32 / Arduino / AVR: web serial, AVR + ESP flasher, fork recovery y caja negra. |
 | **BElectronicsVP** | Reescritura open source de Bluetooth Electronics en Kotlin + Jetpack Compose. |
 | **Ouroboros Landing** | Sitio oficial de la marca, diseño y frontend. |
 
